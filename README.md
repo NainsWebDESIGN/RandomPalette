@@ -1,1 +1,1 @@
-"# RandomPalette" 
+### 隨機調色盤
